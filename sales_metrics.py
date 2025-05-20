@@ -11,5 +11,3 @@ def calculate_daily_sales(sales):
 if __name__ == "__main__":
 	sample_sales = [100, 200, 150]
 	print("Total Sales:", calculate_daily_sales(sample_sales))
-
-
